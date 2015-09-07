@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/app/ecom/fcr/!svn/ver/42464/branches/badcase-model/fcr_11-0-164-1_BRANCH/framework/join_resource/join_other_fea/calc_word2vec_sim
+END
+joint_vector.py
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/app/ecom/fcr/!svn/ver/42464/branches/badcase-model/fcr_11-0-164-1_BRANCH/framework/join_resource/join_other_fea/calc_word2vec_sim/joint_vector.py
+END
+unique_input.py
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/app/ecom/fcr/!svn/ver/42351/branches/badcase-model/fcr_11-0-164-1_BRANCH/framework/join_resource/join_other_fea/calc_word2vec_sim/unique_input.py
+END
+calc_embedding_score.py
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/app/ecom/fcr/!svn/ver/42464/branches/badcase-model/fcr_11-0-164-1_BRANCH/framework/join_resource/join_other_fea/calc_word2vec_sim/calc_embedding_score.py
+END
+calc_embedding_score.sh
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/app/ecom/fcr/!svn/ver/42464/branches/badcase-model/fcr_11-0-164-1_BRANCH/framework/join_resource/join_other_fea/calc_word2vec_sim/calc_embedding_score.sh
+END
